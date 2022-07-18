@@ -1,0 +1,41 @@
+
+body#html{
+    color: white;
+    margin: 0 !important;
+    padding: 0 !important;
+    font-family: 'Edu VIC WA NT Beginner', cursive !important;
+    background-color: #CC33FF !important;
+@import url('https://fonts.googleapis.com/css2?family=Edu+VIC+WA+NT+Beginner:wght@500&display=swap');
+
+}
+
+/*
+@media (max-width: 978px) {
+    .container {
+        padding:0;
+        margin:0;
+    }
+
+    body {
+        padding:0;
+    }
+
+    .navbar-fixed-top, .navbar-fixed-bottom, .navbar-static-top {
+        margin-left: 0;
+        margin-right: 0;
+        margin-bottom:0;
+    }
+}
+@media only screen and (max-width: 480px) {
+    #your_id {width:000px;height:000px;}
+}
+@media only screen and (min-width: 480px) and (max-width: 768px) {
+    #your_id {width:000px;height:000px;}
+}
+@media only screen and (min-width: 768px) and (max-width: 959px) {
+    #your_id {width:000px;height:000px;}
+}
+@media only screen and (min-width: 959px) {
+    #your_id {width:000px;height:000px;}
+}
+ */
